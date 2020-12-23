@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">ElementOS Wallpaper Images</string>
+
+    <!-- Come Alive -->
+    <string name="come_alive_featured_service_name">com.breel.wallpapers19.doodle.wallpaper.variations.DoodleWallpaperV1</string>
+    <string name="come_alive_package_name">com.breel.wallpapers19</string>
+    <string name="come_alive_title">Come Alive</string>
+
+    <!-- Living Universe -->
+    <string name="living_universe_featured_service_name">com.breel.wallpapers19.dioramas.uluru.wallpapers.UluruWallpaper</string>
+    <string name="living_universe_package_name">com.breel.wallpapers19</string>
+    <string name="living_universe_title">Living Universe</string>
+
+    <!-- ElementOS Static Wallpapers -->
+    <string name="elementos_featured_image">elementos_dark</string>
+    <string name="elementos_title">ElementOS Wallpapers</string>
+    <!-- Drawables -->
+    <string name="elementos_light_subtitle1">ElementOS Exclusives Wallpapers</string>
+    <string name="elementos_light_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
+    <string name="elementos_light_title">Elementos Light</string>
+
+    <string name="elementos_dark_subtitle1">ElementOS Exclusives Wallpapers</string>
+    <string name="elementos_dark_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
+    <string name="elementos_dark_title">ElementOS Dark</string>
+</resources>
