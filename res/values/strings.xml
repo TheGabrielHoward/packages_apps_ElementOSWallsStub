@@ -13,6 +13,11 @@
     <string name="living_universe_package_name">com.breel.wallpapers19</string>
     <string name="living_universe_title">Living Universe</string>
 
+    <!-- Legacy Ones -->
+    <string name="legacy_ones_featured_service_name">com.ustwo.lwp.wallpapers.timelapse.TimelapseWallpaperService</string>
+    <string name="legacy_ones_package_name">com.ustwo.lwp</string>
+    <string name="legacy_ones_title">Legacy Ones</string>
+
     <!-- ElementOS Static Wallpapers -->
     <string name="elementos_featured_image">elementos_dark</string>
     <string name="elementos_title">ElementOS Wallpapers</string>

@@ -19,6 +19,7 @@
     <string-array name="nexus_live_categories">
         <item>come_alive</item>
         <item>living_universe</item>
+        <item>legacy_ones</item>
     </string-array>
 
     <!-- Come Alive Live Wallpapers -->
@@ -36,6 +37,19 @@
         <item>com.breel.wallpapers19.dioramas.uluru.wallpapers.UluruWallpaper</item>
         <item>com.breel.wallpapers19.dioramas.arabia.wallpapers.ArabiaWallpaper</item>
         <item>com.breel.wallpapers19.dioramas.switzerland.wallpapers.SwitzerlandWallpaper</item>
+    </string-array>
+
+    <!-- Legacy Ones Live Wallpapers -->
+    <string-array name="legacy_ones_service_names">
+        <item>com.ustwo.lwp.wallpapers.timelapse.TimelapseWallpaperService</item>
+        <item>com.ustwo.lwp.wallpapers.shadow.ShadowWallpaperService1</item>
+        <item>com.ustwo.lwp.wallpapers.shadow.ShadowWallpaperService2</item>
+        <item>com.ustwo.lwp.wallpapers.shadow.ShadowWallpaperService3</item>
+        <item>com.ustwo.lwp.wallpapers.shadow.ShadowWallpaperService4</item>
+        <item>com.ustwo.lwp.wallpapers.shadow.ShadowWallpaperService5</item>
+        <item>com.ustwo.lwp.wallpapers.shadow.ShadowWallpaperService6</item>
+        <item>com.ustwo.lwp.wallpapers.orbit.OrbitWallpaperService2</item>
+        <item>com.ustwo.lwp.wallpapers.orbit.OrbitWallpaperService3</item>
     </string-array>
 
     <!-- ElementOS Collection -->
