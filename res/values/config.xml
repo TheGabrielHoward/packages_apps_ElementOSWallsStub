@@ -15,6 +15,8 @@
     <!-- Collections -->
     <string-array name="static_categories" >
         <item>elementos</item>
+        <item>additional</item>
+        <item>more</item>
     </string-array>
     <string-array name="nexus_live_categories">
         <item>come_alive</item>
@@ -57,4 +59,62 @@
         <item>elementos_light</item>
         <item>elementos_dark</item>
     </string-array>
+
+    <!-- Additional Collection -->
+    <string-array name="additional_wallpapers">
+        <item>additional_light_01</item>
+        <item>additional_light_02</item>
+        <item>additional_light_03</item>
+        <item>additional_light_04</item>
+        <item>additional_light_05</item>
+        <item>additional_black_01</item>
+        <item>additional_black_02</item>
+        <item>additional_black_03</item>
+        <item>additional_black_04</item>
+        <item>additional_black_05</item>
+        <item>additional_black_06</item>
+        <item>additional_black_07</item>
+        <item>additional_black_08</item>
+        <item>additional_black_09</item>
+        <item>additional_black_10</item>
+        <item>additional_dark_01</item>
+        <item>additional_dark_02</item>
+        <item>additional_dark_03</item>
+        <item>additional_dark_04</item>
+        <item>additional_xmas_01</item>
+    </string-array>
+
+    <!-- More (Unsplash) Collection -->
+    <string-array name="more_wallpapers">
+        <item>more_1</item>
+        <item>more_2</item>
+        <item>more_3</item>
+        <item>more_4</item>
+        <item>more_5</item>
+        <item>more_6</item>
+        <item>more_7</item>
+        <item>more_8</item>
+        <item>more_9</item>
+        <item>more_10</item>
+        <item>more_11</item>
+        <item>more_12</item>
+        <item>more_13</item>
+        <item>more_14</item>
+        <item>more_15</item>
+        <item>more_16</item>
+        <item>more_17</item>
+        <item>more_18</item>
+        <item>more_19</item>
+        <item>more_20</item>
+        <item>more_21</item>
+        <item>more_22</item>
+        <item>more_23</item>
+        <item>more_24</item>
+        <item>more_15</item>
+        <item>more_26</item>
+        <item>more_27</item>
+        <item>more_28</item>
+        <item>more_29</item>
+    </string-array>
+
 </resources>
