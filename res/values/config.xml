@@ -17,6 +17,7 @@
         <item>elementos</item>
         <item>additional</item>
         <item>more</item>
+        <item>old</item>
     </string-array>
     <string-array name="nexus_live_categories">
         <item>come_alive</item>
@@ -89,32 +90,38 @@
         <item>more_1</item>
         <item>more_2</item>
         <item>more_3</item>
-        <item>more_4</item>
         <item>more_5</item>
-        <item>more_6</item>
         <item>more_7</item>
-        <item>more_8</item>
-        <item>more_9</item>
         <item>more_10</item>
         <item>more_11</item>
-        <item>more_12</item>
         <item>more_13</item>
         <item>more_14</item>
-        <item>more_15</item>
         <item>more_16</item>
-        <item>more_17</item>
-        <item>more_18</item>
-        <item>more_19</item>
         <item>more_20</item>
         <item>more_21</item>
         <item>more_22</item>
         <item>more_23</item>
-        <item>more_24</item>
         <item>more_15</item>
         <item>more_26</item>
         <item>more_27</item>
         <item>more_28</item>
         <item>more_29</item>
+    </string-array>
+
+    <!-- Old Ones Collection -->
+    <string-array name="old_wallpapers">
+        <item>old_ones_1</item>
+        <item>old_ones_2</item>
+        <item>old_ones_3</item>
+        <item>old_ones_4</item>
+        <item>old_ones_5</item>
+        <item>old_ones_6</item>
+        <item>old_ones_7</item>
+        <item>old_ones_8</item>
+        <item>old_ones_9</item>
+        <item>old_ones_10</item>
+        <item>old_ones_11</item>
+        <item>old_ones_12</item>
     </string-array>
 
 </resources>
