@@ -15,9 +15,9 @@
     <!-- Collections -->
     <string-array name="static_categories" >
         <item>elementos</item>
+        <item>old</item>
         <item>additional</item>
         <item>more</item>
-        <item>old</item>
     </string-array>
     <string-array name="nexus_live_categories">
         <item>come_alive</item>
@@ -122,6 +122,13 @@
         <item>old_ones_10</item>
         <item>old_ones_11</item>
         <item>old_ones_12</item>
+        <item>old_ones_13</item>
+        <item>old_ones_14</item>
+        <item>old_ones_15</item>
+        <item>old_ones_16</item>
+        <item>old_ones_17</item>
+        <item>old_ones_18</item>
+        <item>old_ones_19</item>
     </string-array>
 
 </resources>
