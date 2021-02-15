@@ -3,21 +3,23 @@
     <!-- App Name -->
     <string name="app_name">ElementOS Wallpaper Images</string>
 
-    <!-- Come Alive -->
+    <!-- Live Collections -->
+    <!-- Live - Come Alive -->
     <string name="come_alive_featured_service_name">com.breel.wallpapers19.doodle.wallpaper.variations.DoodleWallpaperV1</string>
     <string name="come_alive_package_name">com.breel.wallpapers19</string>
     <string name="come_alive_title">Come Alive</string>
 
-    <!-- Living Universe -->
+    <!-- Live - Living Universe -->
     <string name="living_universe_featured_service_name">com.breel.wallpapers19.dioramas.uluru.wallpapers.UluruWallpaper</string>
     <string name="living_universe_package_name">com.breel.wallpapers19</string>
     <string name="living_universe_title">Living Universe</string>
 
-    <!-- Legacy Ones -->
+    <!-- Live - Legacy Ones -->
     <string name="legacy_ones_featured_service_name">com.ustwo.lwp.wallpapers.timelapse.TimelapseWallpaperService</string>
     <string name="legacy_ones_package_name">com.ustwo.lwp</string>
     <string name="legacy_ones_title">Legacy Ones</string>
 
+    <!-- Static Collections -->
     <!-- ElementOS Static Wallpapers -->
     <string name="elementos_featured_image">elementos_dark</string>
     <string name="elementos_title">ElementOS Wallpapers</string>
@@ -28,71 +30,6 @@
     <string name="elementos_dark_subtitle1">ElementOS Exclusives Wallpapers</string>
     <string name="elementos_dark_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
     <string name="elementos_dark_title">ElementOS Dark</string>
-
-    <!-- Additional Exclusives go here -->
-    <string name="additional_featured_image">additional_dark_01</string>
-    <string name="additional_title">Additional Walls</string>
-    <!-- Drawables -->
-    <string name="additional_light_01_subtitle1">Exclusive wallpaper package</string>
-    <string name="additional_light_01_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
-    <string name="additional_light_01_title">Additional Light Blue</string>
-    <string name="additional_light_02_subtitle1">Exclusive wallpaper package</string>
-    <string name="additional_light_02_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
-    <string name="additional_light_02_title">Additional Light Teal</string>
-    <string name="additional_light_03_subtitle1">Exclusive wallpaper package</string>
-    <string name="additional_light_03_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
-    <string name="additional_light_03_title">Additional Light Blue to white</string>
-    <string name="additional_light_04_subtitle1">Exclusive wallpaper package</string>
-    <string name="additional_light_04_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
-    <string name="additional_light_04_title">Additional Light red to white</string>
-    <string name="additional_light_05_subtitle1">Exclusive wallpaper package</string>
-    <string name="additional_light_05_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
-    <string name="additional_light_05_title">Additional Light Blue-Red</string>
-    <string name="additional_black_01_subtitle1">Exclusive wallpaper package</string>
-    <string name="additional_black_01_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
-    <string name="additional_black_01_title">Additional Black Blue</string>
-    <string name="additional_black_02_subtitle1">Exclusive wallpaper package</string>
-    <string name="additional_black_02_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
-    <string name="additional_black_02_title">Additional Black Blue 2</string>
-    <string name="additional_black_03_subtitle1">Exclusive wallpaper package</string>
-    <string name="additional_black_03_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
-    <string name="additional_black_03_title">Additional Black Red 2</string>
-    <string name="additional_black_04_subtitle1">Exclusive wallpaper package</string>
-    <string name="additional_black_04_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
-    <string name="additional_black_04_title">Additional Black Teal</string>
-    <string name="additional_black_05_subtitle1">Exclusive wallpaper package</string>
-    <string name="additional_black_05_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
-    <string name="additional_black_05_title">Additional Black Mono</string>
-    <string name="additional_black_06_subtitle1">Exclusive wallpaper package</string>
-    <string name="additional_black_06_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
-    <string name="additional_black_06_title">Additional Black Red to black</string>
-    <string name="additional_black_07_subtitle1">Exclusive wallpaper package</string>
-    <string name="additional_black_07_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
-    <string name="additional_black_07_title">Additional Black Blue to black</string>
-    <string name="additional_black_08_subtitle1">Exclusive wallpaper package</string>
-    <string name="additional_black_08_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
-    <string name="additional_black_08_title">Additional Black Teal to black</string>
-    <string name="additional_black_09_subtitle1">Exclusive wallpaper package</string>
-    <string name="additional_black_09_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
-    <string name="additional_black_09_title">Additional Black Red-Blue</string>
-    <string name="additional_black_10_subtitle1">Exclusive wallpaper package</string>
-    <string name="additional_black_10_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
-    <string name="additional_black_10_title">Additional Black Blue-Teal</string>
-    <string name="additional_dark_01_subtitle1">Exclusive wallpaper package</string>
-    <string name="additional_dark_01_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
-    <string name="additional_dark_01_title">Additional Dark Red</string>
-    <string name="additional_dark_02_subtitle1">Exclusive wallpaper package</string>
-    <string name="additional_dark_02_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
-    <string name="additional_dark_02_title">Additional Dark Blue</string>
-    <string name="additional_dark_03_subtitle1">Exclusive wallpaper package</string>
-    <string name="additional_dark_03_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
-    <string name="additional_dark_03_title">Additional Dark Blue to black</string>
-    <string name="additional_dark_04_subtitle1">Exclusive wallpaper package</string>
-    <string name="additional_dark_04_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
-    <string name="additional_dark_04_title">Additional Dark Teal to black</string>
-    <string name="additional_xmas_01_subtitle1">Merry xmas!!</string>
-    <string name="additional_xmas_01_subtitle2">The bbjprojek team wish you a 2021 full of happiness and health</string>
-    <string name="additional_xmas_01_title">Additional is on Xmas</string>
 
     <!-- Another package go here. Bruhh -->
     <string name="more_featured_image">more_27</string>
@@ -107,56 +44,29 @@
     <string name="more_3_subtitle1">Unsplash Collection</string>
     <string name="more_3_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
     <string name="more_3_title">Wall #3</string>
+    <string name="more_4_subtitle1">Unsplash Collection</string>
+    <string name="more_4_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
+    <string name="more_4_title">Wall #3</string>
     <string name="more_5_subtitle1">Unsplash Collection</string>
     <string name="more_5_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
     <string name="more_5_title">Wall #5</string>
+    <string name="more_6_subtitle1">Unsplash Collection</string>
+    <string name="more_6_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
+    <string name="more_6_title">Wall #3</string>
     <string name="more_7_subtitle1">Unsplash Collection</string>
     <string name="more_7_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
     <string name="more_7_title">Wall #7</string>
+    <string name="more_8_subtitle1">Unsplash Collection</string>
+    <string name="more_8_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
+    <string name="more_8_title">Wall #3</string>
+    <string name="more_9_subtitle1">Unsplash Collection</string>
+    <string name="more_9_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
+    <string name="more_9_title">Wall #3</string>
     <string name="more_10_subtitle1">Unsplash Collection</string>
     <string name="more_10_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
     <string name="more_10_title">Wall #10</string>
-    <string name="more_11_subtitle1">Unsplash Collection</string>
-    <string name="more_11_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
-    <string name="more_11_title">Wall #11</string>
-    <string name="more_13_subtitle1">Unsplash Collection</string>
-    <string name="more_13_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
-    <string name="more_13_title">Wall #13</string>
-    <string name="more_14_subtitle1">Unsplash Collection</string>
-    <string name="more_14_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
-    <string name="more_14_title">Wall #14</string>
-    <string name="more_16_subtitle1">Unsplash Collection</string>
-    <string name="more_16_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
-    <string name="more_16_title">Wall #16</string>
-    <string name="more_20_subtitle1">Unsplash Collection</string>
-    <string name="more_20_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
-    <string name="more_20_title">Wall #20</string>
-    <string name="more_21_subtitle1">Unsplash Collection</string>
-    <string name="more_21_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
-    <string name="more_21_title">Wall #21</string>
-    <string name="more_22_subtitle1">Unsplash Collection</string>
-    <string name="more_22_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
-    <string name="more_22_title">Wall 22</string>
-    <string name="more_23_subtitle1">Unsplash Collection</string>
-    <string name="more_23_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
-    <string name="more_23_title">Wall #23</string>
-    <string name="more_25_subtitle1">Unsplash Collection</string>
-    <string name="more_25_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
-    <string name="more_25_title">Wall #25</string>
-    <string name="more_26_subtitle1">Unsplash Collection</string>
-    <string name="more_26_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
-    <string name="more_26_title">Wall #26</string>
-    <string name="more_27_subtitle1">Unsplash Collection</string>
-    <string name="more_27_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
-    <string name="more_27_title">Wall #27</string>
-    <string name="more_28_subtitle1">Unsplash Collection</string>
-    <string name="more_28_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
-    <string name="more_28_title">Wall #28</string>
-    <string name="more_29_subtitle1">Unsplash Collection</string>
-    <string name="more_29_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
-    <string name="more_29_title">Wall #28</string>
 
-    <!-- ElementOS Static Wallpapers -->
+    <!-- Old Android Walls Static Wallpapers -->
     <string name="old_featured_image">old_ones_8</string>
     <string name="old_title">Old Times</string>
     <!-- Drawables -->
@@ -217,5 +127,69 @@
     <string name="old_ones_19_subtitle1">Wallpapers from earlier Android versions</string>
     <string name="old_ones_19_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
     <string name="old_ones_19_title">Old Ones #19</string>
+
+    <!-- OnePlus Static Wallpapers -->
+    <string name="oneplus_featured_image">op_3</string>
+    <string name="oneplus_title">OnePlus Wallpapers</string>
+    <!-- Drawables -->
+    <string name="op_1_subtitle1">Wallpapers from OnePlus Devices</string>
+    <string name="op_1_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
+    <string name="op_1_title">OnePlus Wallpaper</string>
+    <string name="op_2_subtitle1">Wallpapers from OnePlus Devices</string>
+    <string name="op_2_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
+    <string name="op_2_title">OnePlus Wallpaper</string>
+    <string name="op_3_subtitle1">Wallpapers from OnePlus Devices</string>
+    <string name="op_3_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
+    <string name="op_3_title">OnePlus Wallpaper</string>
+    <string name="op_4_subtitle1">Wallpapers from OnePlus Devices</string>
+    <string name="op_4_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
+    <string name="op_4_title">OnePlus Wallpaper</string>
+    <string name="op_5_subtitle1">Wallpapers from OnePlus Devices</string>
+    <string name="op_5_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
+    <string name="op_5_title">OnePlus Wallpaper</string>
+    <string name="op_6_subtitle1">Wallpapers from OnePlus Devices</string>
+    <string name="op_6_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
+    <string name="op_6_title">OnePlus Wallpaper</string>
+    <string name="op_7_subtitle1">Wallpapers from OnePlus Devices</string>
+    <string name="op_7_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
+    <string name="op_7_title">OnePlus Wallpaper</string>
+    <string name="op_8_subtitle1">Wallpapers from OnePlus Devices</string>
+    <string name="op_8_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
+    <string name="op_8_title">OnePlus Wallpaper</string>
+    <string name="op_9_subtitle1">Wallpapers from OnePlus Devices</string>
+    <string name="op_9_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
+    <string name="op_9_title">OnePlus Nord Wallpaper</string>
+    <string name="op_10_subtitle1">Wallpapers from OnePlus Devices</string>
+    <string name="op_10_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
+    <string name="op_10_title">OnePlus Nord Wallpaper</string>
+
+    <!-- IOS Static Wallpapers -->
+    <string name="ios_featured_image">ios_8</string>
+    <string name="ios_title">IOS Wallpapers</string>
+    <!-- Drawables -->
+    <string name="ios_2_subtitle1">Wallpapers from IOS Devices</string>
+    <string name="ios_2_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
+    <string name="ios_2_title">IOS Wallpaper</string>
+    <string name="ios_3_subtitle1">Wallpapers from IOS Devices</string>
+    <string name="ios_3_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
+    <string name="ios_3_title">IOS Wallpaper</string>
+    <string name="ios_4_subtitle1">Wallpapers from IOS Devices</string>
+    <string name="ios_4_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
+    <string name="ios_4_title">IOS Wallpaper</string>
+    <string name="ios_5_subtitle1">Wallpapers from IOS Devices</string>
+    <string name="ios_5_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
+    <string name="ios_5_title">IOS Wallpaper</string>
+    <string name="ios_6_subtitle1">Wallpapers from IOS Devices</string>
+    <string name="ios_6_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
+    <string name="ios_6_title">IOS Wallpaper</string>
+    <string name="ios_7_subtitle1">Wallpapers from IOS Devices</string>
+    <string name="ios_7_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
+    <string name="ios_7_title">IOS Wallpaper</string>
+    <string name="ios_8_subtitle1">Wallpapers from IOS Devices</string>
+    <string name="ios_8_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
+    <string name="ios_8_title">IOS Wallpaper</string>
+    <string name="ios_9_subtitle1">Wallpapers from IOS Devices</string>
+    <string name="ios_9_subtitle2">Made by the bbjprojek team for ElementOS ROM. Enjoy it!</string>
+    <string name="ios_9_title">IOS Wallpaper</string>
 
 </resources>
